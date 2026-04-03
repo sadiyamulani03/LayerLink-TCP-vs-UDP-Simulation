@@ -1,4 +1,4 @@
-# 🚀 LayerLink+: OSI Simulation with TCP vs UDP
+# 🚀 LayerLink: OSI Simulation with TCP vs UDP
 
 This project demonstrates how data flows across OSI layers and compares TCP vs UDP communication using Python socket programming.
 
