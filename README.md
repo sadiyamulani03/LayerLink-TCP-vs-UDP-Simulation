@@ -16,26 +16,29 @@ This project demonstrates how data flows across OSI layers and compares TCP vs U
 
 ## ⚙️ How to Run
 
+### OSI 
+   python OSI.py
+
 ### TCP
 1. Run receiver:
-  python tcp_receiver.py
+  python TCPReceiver.py
 
 2. Run sender:
-  python tcp_sender.py
+  python TCPSender.py
 
 
 ### UDP
 1. Run receiver:
-  python udp_receiver.py
+  python UDPReceiver.py
 
 2. Run sender:
-  python udp_sender.py
+  python UDPSender.py
 
 
 ## 📌 Output
 Shows how data travels through layers and highlights TCP vs UDP behavior.
 
-Built as part of Computer Networking & Cryptography Practice.
+Built as part of Computer Networking & Cryptography Learning and Implementing Prractically.
 
 
 ## 📸 Demo
