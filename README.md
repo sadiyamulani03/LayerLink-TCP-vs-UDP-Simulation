@@ -40,6 +40,9 @@ Built as part of Computer Networking & Cryptography Practice.
 
 ## 📸 Demo
 ![Output]
+### OSI
+<img width="1470" height="617" alt="image" src="https://github.com/user-attachments/assets/4d116d2b-7789-4fad-bbd9-05815cf4c378" />
+
 ### TCP
 1. Sender:
 <img width="941" height="417" alt="image" src="https://github.com/user-attachments/assets/d8d28a54-3960-4b3b-89a5-799cf98baf1a" />
